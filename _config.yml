@@ -239,7 +239,7 @@ defaults:
       type: posts
     values:
       layout: single
-      header:
+      header: true
         image: "/assets/images/andre-benz-256762.jpg"
       author_profile: true
       read_time: true
