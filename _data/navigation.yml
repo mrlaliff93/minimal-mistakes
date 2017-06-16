@@ -4,7 +4,9 @@ main:
     url: https://mmistakes.github.io/minimal-mistakes/General/
   - title: "International Politics"
     url: https://mmistakes.github.io/minimal-mistakes/Politics/
-  - title: "White-Collar Criminology"
+  - title: "Life Hacks"
+    url: https://mmistakes.github.io/minimal-mistakes/hacks/
+  - title: "Criminology"
     url: https://mmistakes.github.io/minimal-mistakes/Cyber/
   - title: "Religions & Ideologies"
     url: https://mmistakes.github.io/minimal-mistakes/Religions/
