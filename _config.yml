@@ -5,15 +5,6 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-
-header:
-  image: "/assets/images/andre-benz-256762.jpg"
-layout: splash
-classes:
-  - landing
-  - dark-theme
-
-
 # Site Settings
 locale                   : "en"
 title                    : "Allegro Spiritoso"
@@ -247,7 +238,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: splash
+      layout: single
       author_profile: true
       read_time: true
       comments: # true
