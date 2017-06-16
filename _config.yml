@@ -9,6 +9,8 @@
 locale                   : "en"
 title                    : "Allegro Spiritoso"
 title_separator          : "-"
+header:
+        image: "/assets/images/andre-benz-256762.jpg"
 name                     : "Amirul Aliff"
 description              : ""
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -239,8 +241,6 @@ defaults:
       type: posts
     values:
       layout: single
-      header:
-        image: /assets/images/andre-benz-256762.jpg
       author_profile: true
       read_time: true
       comments: # true
