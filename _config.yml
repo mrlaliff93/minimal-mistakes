@@ -239,8 +239,8 @@ defaults:
       type: posts
     values:
       layout: single
-      header: true
-        image: "/assets/images/andre-benz-256762.jpg"
+      header:
+        image: /assets/images/andre-benz-256762.jpg
       author_profile: true
       read_time: true
       comments: # true
