@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Amirul Aliff"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/pro.jpg"
   bio              : "An aspiring thinker."
   location         : "Malaysia"
   email            :
