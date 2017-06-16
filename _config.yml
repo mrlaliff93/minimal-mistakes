@@ -239,6 +239,8 @@ defaults:
       type: posts
     values:
       layout: single
+      header:
+        image: /assets/images/andre-benz-256762.JPG
       author_profile: true
       read_time: true
       comments: # true
