@@ -8,6 +8,10 @@
 
 header:
   image: "/assets/images/andre-benz-256762.jpg"
+layout: splash
+classes:
+  - landing
+  - dark-theme
 
 
 # Site Settings
