@@ -1,6 +1,6 @@
 ---
-title: "General"
-permalink: /general/
+title: "Religions & Ideologies"
+permalink: /religions/
 
 categories:
   - aciform
