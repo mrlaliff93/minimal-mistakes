@@ -1,15 +1,15 @@
 # main links
 main:
   - title: "General"
-    url: https://mmistakes.github.io/minimal-mistakes/General/
+    url: http://amirulaliff.com/general/
   - title: "International Politics"
-    url: https://mmistakes.github.io/minimal-mistakes/Politics/
+    url: http://amirulaliff.com/politics/
   - title: "Life Hacks"
-    url: https://mmistakes.github.io/minimal-mistakes/hacks/
+    url: http://amirulaliff.com/hacks/
   - title: "Criminology"
-    url: https://mmistakes.github.io/minimal-mistakes/Cyber/
+    url: http://amirulaliff.com/criminology/
   - title: "Religions & Ideologies"
-    url: https://mmistakes.github.io/minimal-mistakes/Religions/
+    url: http://amirulaliff.com/religions/
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
