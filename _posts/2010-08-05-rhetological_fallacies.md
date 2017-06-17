@@ -46,7 +46,7 @@ A claim is true simply because it has not been proven false (or false because it
 ![image-left](http://i.imgur.com/bOO5BVJ.png){: .align-left}
 Because a claim sounds unbelievable, it must not be true.
 
-*“How could Jesus walked on water when physics prove otherwise?"*
+*“It is impossibe that Jesus could walked on water. Do you even learn physics in schoo?"*
 
 
 
@@ -55,7 +55,7 @@ Because a claim sounds unbelievable, it must not be true.
 ![image-left](http://i.imgur.com/vNtZq66.png){: .align-left}
 Supposing that, if someone is rich or something is expensive, then it affects the truth of a claim.
 
-*“If it costs more, it must be better."*
+*“My watch must be better than yours because i bought it at a higher price than you did."*
 
 
 
@@ -70,7 +70,7 @@ Supposing something is better because it is new or newer.
 ## **Appeal to Popular Belief** ##
 
 ![image-left](http://i.imgur.com/qV0ObUn.png){: .align-left}
-Claiming something is true because the majority of people believe it.
+Claiming something is true because the majority of people believe it. Likewise when believing a suspect of a crime to be guilty before being convicted.
 
 *“Milk is good for your bones."*
 
