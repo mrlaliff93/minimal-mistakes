@@ -2,7 +2,8 @@
 title: "Rhetological Fallacies - Appeal to the Mind"
 categories:
   - general
-og_image: /assets/images/boo.png
+description: Rhetological Fallacies 101
+thumbnail: /assets/images/boo.jpg
   
 ---
 
