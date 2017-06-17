@@ -1,5 +1,5 @@
 ---
-title: "hahaha"
+title: "general"
 permalink: /general/hahaha/
 author_profile: true
 ---
