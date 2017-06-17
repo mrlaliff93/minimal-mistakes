@@ -18,7 +18,7 @@ Hence, rhetological fallacies are errors and forms of manipulations of rhetoric 
 Using evidence from an unnamed 'expert' or 'study' or generalized groups like 'scientists' to claim something to be true.
 
 > *“A study shows that eating a clove of garlic a day can help prevent heart disease."*
-
+{: .text-right}
 
 ## **Appeal to Authority** ##
 
