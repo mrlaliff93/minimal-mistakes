@@ -20,32 +20,36 @@ Using evidence from an unnamed 'expert' or 'study' or generalized groups like 's
 *“A study shows that eating a clove of garlic a day can help prevent heart disease."*
 {: .text-center}
 
-## **Appeal to Authority** ##
 
+[Appeal to Authority](#link){: .btn .btn--large}
+{: .text-center}
 ![image-right](http://i.imgur.com/7vTP0e1.png){: .align-right}
 Claiming something is true because an unqualified or untrustworthy 'expert' says it is.
 
 *“Over 50 scientists from US dispute global warming."*
 {: .text-center}
 
-## **Appeal to Common Practice** ##
 
+[Appeal to Common Practice](#link){: .btn .btn--large}
+{: .text-center}
 ![image-left](http://i.imgur.com/nMn1HRe.png){: .align-left}
 Claiming something is true because it is commonly practiced.
 
 *“This country has some problems with corruption. But there's nothing going on here that doesn't go on in all other countries."*
 {: .text-center}
 
-## **Appeal to Ignorance** ##
 
+[Appeal to Ignorance](#link){: .btn .btn--large}
+{: .text-center}
 ![image-right](http://i.imgur.com/9aO8QtQ.png){: .align-right}
 A claim is true simply because it has not been proven false (or false because it has not been proven true).
 
 *“Nobody has proved to me there is a God. So there is no God."*
 {: .text-center}
 
-## **Appeal to Incredulity** ##
 
+[Appeal to Incredulity](#link){: .btn .btn--large}
+{: .text-center}
 ![image-left](http://i.imgur.com/bOO5BVJ.png){: .align-left}
 Because a claim sounds impossible or unbelievable, then it must not be true.
 
@@ -53,8 +57,9 @@ Because a claim sounds impossible or unbelievable, then it must not be true.
 {: .text-center}
 
 
-## **Appeal to Money** ##
 
+[Appeal to Money](#link){: .btn .btn--large}
+{: .text-center}
 ![image-right](http://i.imgur.com/vNtZq66.png){: .align-right}
 Supposing that, if someone is rich or something is expensive, then it affects the truth of a claim.
 
@@ -62,16 +67,18 @@ Supposing that, if someone is rich or something is expensive, then it affects th
 {: .text-center}
 
 
-## **Appeal to Novelty** ##
 
+[Appeal to Novelty](#link){: .btn .btn--large}
+{: .text-center}
 ![image-left](http://i.imgur.com/JOuGXoD.png){: .align-left}
 Supposing something is better because it is new or newer.
 
 *“Awesome! The latest version of this operating system is going to make my computer runs faster!"*
 {: .text-center}
 
-## **Appeal to Popular Belief** ##
 
+[Appeal to Popular Belief](#link){: .btn .btn--large}
+{: .text-center}
 ![image-right](http://i.imgur.com/qV0ObUn.png){: .align-right}
 Claiming something is true because the majority of people believe it. Likewise when believing a suspect of a crime to be guilty before being convicted.
 
@@ -79,16 +86,18 @@ Claiming something is true because the majority of people believe it. Likewise w
 {: .text-center}
 
 
-## **Appeal to Probability** ##
 
+[Appeal to Probability](#link){: .btn .btn--large}
+{: .text-center}
 ![image-left](http://i.imgur.com/QF8Kt0Q.png){: .align-left}
 Assuming because something could happen, it will inevitably happen.
 
 *“There are billions of galaxies with billions of stars in the universe. So there must be another planet with intelligent life on it."*
 {: .text-center}
 
-## **Appeal to Tradition** ##
 
+[Appeal to Tradition](#link){: .btn .btn--large}
+{: .text-center}
 ![image-right](http://i.imgur.com/wusOR4n.png){: .align-right}
 Claiming something is true because it is (apparently) always been that way.
 
