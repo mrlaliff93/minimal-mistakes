@@ -49,12 +49,14 @@ Because a claim sounds unbelievable, it must not be true.
 *“How could Jesus walked on water when physics prove otherwise?"*
 
 
+
 ## **Appeal to Money** ##
 
 ![image-left](http://i.imgur.com/vNtZq66.png){: .align-left}
 Supposing that, if someone is rich or something is expensive, then it affects the truth of a claim.
 
 *“If it costs more, it must be better."*
+
 
 
 ## **Appeal to Novelty** ##
@@ -71,6 +73,7 @@ Supposing something is better because it is new or newer.
 Claiming something is true because the majority of people believe it.
 
 *“Milk is good for your bones."*
+
 
 
 
