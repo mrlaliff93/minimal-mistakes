@@ -11,6 +11,13 @@ main:
   - title: "Religions & Ideologies"
     url: http://amirulaliff.com/religions/
 
+general:
+  - title: "Calendar Systems"
+    url: http://amirulaliff.com/general/calendar_systems/
+  - title: "hhh"
+    url: http://amirulaliff.com/general/hhh/
+    
+    
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
