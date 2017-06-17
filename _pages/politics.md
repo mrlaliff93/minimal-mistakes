@@ -1,6 +1,6 @@
 ---
-title: "General"
-permalink: /general/
+title: "International Politics"
+permalink: /politics/
 
 categories:
   - aciform
