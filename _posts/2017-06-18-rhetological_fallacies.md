@@ -11,18 +11,14 @@ Fallacies are common errors in reasoning that will undermine the logic of your a
 
 Hence, rhetological fallacies are errors and forms of manipulations of rhetoric and logical thinking.
 
-
-[Appeal to Anonymous Authority](#link){: .btn .btn--large}
-{: .text-center}
+## **Appeal to Anonymous Authority** ##
 ![image-left](http://i.imgur.com/8oNRNcn.png){: .align-left}
 Using evidence from an unnamed 'expert' or 'study' or generalized groups like 'scientists' to claim something to be true.
 
 *“A study shows that eating a clove of garlic a day can help prevent heart disease."*
 {: .text-center}
 
-
-[Appeal to Authority](#link){: .btn .btn--large}
-{: .text-center}
+## **Appeal to Authority** ##
 ![image-right](http://i.imgur.com/7vTP0e1.png){: .align-right}
 Claiming something is true because an unqualified or untrustworthy 'expert' says it is.
 
@@ -30,8 +26,7 @@ Claiming something is true because an unqualified or untrustworthy 'expert' says
 {: .text-center}
 
 
-[Appeal to Common Practice](#link){: .btn .btn--large}
-{: .text-center}
+## **Appeal to Common Practice** ##
 ![image-left](http://i.imgur.com/nMn1HRe.png){: .align-left}
 Claiming something is true because it is commonly practiced.
 
@@ -39,8 +34,7 @@ Claiming something is true because it is commonly practiced.
 {: .text-center}
 
 
-[Appeal to Ignorance](#link){: .btn .btn--large}
-{: .text-center}
+## **Appeal to Ignorance** ##
 ![image-right](http://i.imgur.com/9aO8QtQ.png){: .align-right}
 A claim is true simply because it has not been proven false (or false because it has not been proven true).
 
@@ -48,8 +42,7 @@ A claim is true simply because it has not been proven false (or false because it
 {: .text-center}
 
 
-[Appeal to Incredulity](#link){: .btn .btn--large}
-{: .text-center}
+## **Appeal to Incredulity** ##
 ![image-left](http://i.imgur.com/bOO5BVJ.png){: .align-left}
 Because a claim sounds impossible or unbelievable, then it must not be true.
 
@@ -58,8 +51,7 @@ Because a claim sounds impossible or unbelievable, then it must not be true.
 
 
 
-[Appeal to Money](#link){: .btn .btn--large}
-{: .text-center}
+## **Appeal to Money** ##
 ![image-right](http://i.imgur.com/vNtZq66.png){: .align-right}
 Supposing that, if someone is rich or something is expensive, then it affects the truth of a claim.
 
@@ -68,8 +60,8 @@ Supposing that, if someone is rich or something is expensive, then it affects th
 
 
 
-[Appeal to Novelty](#link){: .btn .btn--large}
-{: .text-center}
+## **Appeal to Novelty** ##
+
 ![image-left](http://i.imgur.com/JOuGXoD.png){: .align-left}
 Supposing something is better because it is new or newer.
 
@@ -77,8 +69,7 @@ Supposing something is better because it is new or newer.
 {: .text-center}
 
 
-[Appeal to Popular Belief](#link){: .btn .btn--large}
-{: .text-center}
+## **Appeal to Popular Belief** ##
 ![image-right](http://i.imgur.com/qV0ObUn.png){: .align-right}
 Claiming something is true because the majority of people believe it. Likewise when believing a suspect of a crime to be guilty before being convicted.
 
@@ -87,17 +78,14 @@ Claiming something is true because the majority of people believe it. Likewise w
 
 
 
-[Appeal to Probability](#link){: .btn .btn--large}
-{: .text-center}
+## **Appeal to Probability** ##
 ![image-left](http://i.imgur.com/QF8Kt0Q.png){: .align-left}
 Assuming because something could happen, it will inevitably happen.
 
 *“There are billions of galaxies with billions of stars in the universe. So there must be another planet with intelligent life on it."*
 {: .text-center}
 
-
-[Appeal to Tradition](#link){: .btn .btn--large}
-{: .text-center}
+## **Appeal to Tradition** ##
 ![image-right](http://i.imgur.com/wusOR4n.png){: .align-right}
 Claiming something is true because it is (apparently) always been that way.
 
