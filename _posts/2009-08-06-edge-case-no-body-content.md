@@ -1,6 +1,6 @@
 ---
 title: "hhh"
-permalink: /general/
+permalink: /general/hhh/
 author_profile: true
 ---
 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
