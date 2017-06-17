@@ -1,6 +1,6 @@
 ---
-title: "General"
-permalink: /general/
+title: "Criminology"
+permalink: /criminology/
 
 categories:
   - aciform
