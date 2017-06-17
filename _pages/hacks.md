@@ -1,6 +1,6 @@
 ---
-title: "General"
-permalink: /general/
+title: "Life Hacks"
+permalink: /hacks/
 
 categories:
   - aciform
