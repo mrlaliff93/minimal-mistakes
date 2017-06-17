@@ -55,12 +55,12 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "amirul_aliff93"
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : /assets/images/icon.PNG
+og_image                 : "/assets/images/icon.PNG"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
