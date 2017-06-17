@@ -23,7 +23,7 @@ Using evidence from an unnamed 'expert' or 'study' or generalized groups like 's
 ![image-left](http://i.imgur.com/7vTP0e1.png){: .align-left}
 Claiming something is true because an unqualified or untrustworthy 'expert' says it is.
 
-*“Over 200 prominent scientists and environmental experts dispute global warming"*
+*“Over 50 scientists from US dispute global warming"*
 
 
 ## **Appeal to Common Practice** ##
