@@ -1,5 +1,5 @@
 ---
-title: "Rhetological Fallacies - Appeal to the Mind"
+title: "Rhetological Fallacies: Appeal to the Mind"
 categories:
   - general
 description: Rhetological Fallacies 101
