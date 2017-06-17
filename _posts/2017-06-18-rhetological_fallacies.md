@@ -22,7 +22,7 @@ Using evidence from an unnamed 'expert' or 'study' or generalized groups like 's
 
 ## **Appeal to Authority** ##
 
-![image-left](http://i.imgur.com/7vTP0e1.png){: .align-left}
+![image-right](http://i.imgur.com/7vTP0e1.png){: .align-right}
 Claiming something is true because an unqualified or untrustworthy 'expert' says it is.
 
 *“Over 50 scientists from US dispute global warming."*
