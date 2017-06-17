@@ -1,14 +1,13 @@
 ---
-title: "Rhetological Fallacies"
+title: "Rhetological Fallacies - Appeal to the Mind"
 categories:
   - general
 ---
 
 Fallacies are common errors in reasoning that will undermine the logic of your arguments. It can be either illegitimate arguments or irrelevant points, and are often identified because the lack of evidence that supports your claims.
 
-Rhetological fallacies, on the other hand, are errors and forms of manipulations of rhetoric and logical thinking.
+Hence, rhetological fallacies are errors and forms of manipulations of rhetoric and logical thinking.
 
-# Appeal to the Mind #
 
 ## **Appeal to Anonymous Authority** ##
 
@@ -23,7 +22,7 @@ Using evidence from an unnamed 'expert' or 'study' or generalized groups like 's
 ![image-left](http://i.imgur.com/7vTP0e1.png){: .align-left}
 Claiming something is true because an unqualified or untrustworthy 'expert' says it is.
 
-*“Over 50 scientists from US dispute global warming"*
+*“Over 200 prominent scientists and environmental experts dispute global warming"*
 
 
 ## **Appeal to Common Practice** ##
@@ -32,3 +31,59 @@ Claiming something is true because an unqualified or untrustworthy 'expert' says
 Claiming something is true because it's commonly practiced.
 
 *“This country has some problems with corruption. But there's nothing going on here that doesn't go on in all other countries."*
+
+
+## **Appeal to Ignorance** ##
+
+![image-left](http://i.imgur.com/9aO8QtQ.png){: .align-left}
+A claim is true simply because it has not been proven false (or false because it has not been proven true).
+
+*“Nobody has proved to me there is a God. So there is no God."*
+
+
+## **Appeal to Incredulity** ##
+
+![image-left](http://i.imgur.com/bOO5BVJ.png){: .align-left}
+Because a claim sounds unbelievable, it must not be true.
+
+*“How could Jesus walked on water when physics prove otherwise?"*
+
+
+## **Appeal to Money** ##
+
+![image-left](http://i.imgur.com/vNtZq66.png){: .align-left}
+Supposing that, if someone is rich or something is expensive, then it affects the truth of a claim.
+
+*“If it costs more, it must be better."*
+
+
+## **Appeal to Novelty** ##
+
+![image-left](http://i.imgur.com/JOuGXoD.png){: .align-left}
+Supposing something is better because it is new or newer.
+
+*“Awesome! The latest version of this operating system is going to make my computer runs faster!"*
+
+
+## **Appeal to Popular Belief** ##
+
+![image-left](http://i.imgur.com/qV0ObUn.png){: .align-left}
+Claiming something is true because the najority of people believe it.
+
+*“Milk is good for your bones."*
+
+
+## **Appeal to Probability** ##
+
+![image-left](http://i.imgur.com/QF8Kt0Q.png){: .align-left}
+Assuming because something could happen, it will inevitable happen.
+
+*“There are billions of galaxies with billions of stars in the universe. So there must be another planet with intelligent life on it."*
+
+
+## **Appeal to Tradition** ##
+
+![image-left](http://i.imgur.com/wusOR4n.png){: .align-left}
+Claiming something is true because it is (apparently) always been that way.
+
+*“Women are known to be the best homemakers. There is no point for them to attend colleges."*
