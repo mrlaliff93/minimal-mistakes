@@ -218,7 +218,7 @@ tag_archive:
 #   layouts:
 #     category: archive-taxonomy
 #     tag: archive-taxonomy
-#   permalinks:
+ permalinks: /general/
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
@@ -233,10 +233,10 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
+  # _pages
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
       layout: single
       author_profile: true
