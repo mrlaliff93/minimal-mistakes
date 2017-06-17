@@ -17,7 +17,7 @@ Hence, rhetological fallacies are errors and forms of manipulations of rhetoric 
 ![image-left](http://i.imgur.com/8oNRNcn.png){: .align-left}
 Using evidence from an unnamed 'expert' or 'study' or generalized groups like 'scientists' to claim something to be true.
 
-*“A study shows that eating a clove of garlic a day can help prevent heart disease."* <
+*“A study shows that eating a clove of garlic a day can help prevent heart disease."*
 {: .text-center}
 
 ## **Appeal to Authority** ##
@@ -26,7 +26,7 @@ Using evidence from an unnamed 'expert' or 'study' or generalized groups like 's
 Claiming something is true because an unqualified or untrustworthy 'expert' says it is.
 
 *“Over 50 scientists from US dispute global warming."*
-
+{: .text-center}
 
 ## **Appeal to Common Practice** ##
 
@@ -34,7 +34,7 @@ Claiming something is true because an unqualified or untrustworthy 'expert' says
 Claiming something is true because it is commonly practiced.
 
 *“This country has some problems with corruption. But there's nothing going on here that doesn't go on in all other countries."*
-
+{: .text-center}
 
 ## **Appeal to Ignorance** ##
 
@@ -42,7 +42,7 @@ Claiming something is true because it is commonly practiced.
 A claim is true simply because it has not been proven false (or false because it has not been proven true).
 
 *“Nobody has proved to me there is a God. So there is no God."*
-
+{: .text-center}
 
 ## **Appeal to Incredulity** ##
 
@@ -50,7 +50,7 @@ A claim is true simply because it has not been proven false (or false because it
 Because a claim sounds impossible or unbelievable, then it must not be true.
 
 *“It is impossibe when someone says that Jesus could walked on water. Do they even learn physics in school?"*
-
+{: .text-center}
 
 
 ## **Appeal to Money** ##
@@ -59,7 +59,7 @@ Because a claim sounds impossible or unbelievable, then it must not be true.
 Supposing that, if someone is rich or something is expensive, then it affects the truth of a claim.
 
 *“My watch must be better than yours because i bought it at a higher price than you did."*
-
+{: .text-center}
 
 
 ## **Appeal to Novelty** ##
@@ -68,7 +68,7 @@ Supposing that, if someone is rich or something is expensive, then it affects th
 Supposing something is better because it is new or newer.
 
 *“Awesome! The latest version of this operating system is going to make my computer runs faster!"*
-
+{: .text-center}
 
 ## **Appeal to Popular Belief** ##
 
@@ -76,7 +76,7 @@ Supposing something is better because it is new or newer.
 Claiming something is true because the majority of people believe it. Likewise when believing a suspect of a crime to be guilty before being convicted.
 
 *“Milk is good for your bones."*
-
+{: .text-center}
 
 
 ## **Appeal to Probability** ##
@@ -85,7 +85,7 @@ Claiming something is true because the majority of people believe it. Likewise w
 Assuming because something could happen, it will inevitably happen.
 
 *“There are billions of galaxies with billions of stars in the universe. So there must be another planet with intelligent life on it."*
-
+{: .text-center}
 
 ## **Appeal to Tradition** ##
 
@@ -93,3 +93,4 @@ Assuming because something could happen, it will inevitably happen.
 Claiming something is true because it is (apparently) always been that way.
 
 *“Women are known to be the best homemakers. There is no point for them to attend colleges."*
+{: .text-center}
