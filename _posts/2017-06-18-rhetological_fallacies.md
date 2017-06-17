@@ -38,7 +38,7 @@ Claiming something is true because it is commonly practiced.
 
 ## **Appeal to Ignorance** ##
 
-![image-left](http://i.imgur.com/9aO8QtQ.png){: .align-left}
+![image-right](http://i.imgur.com/9aO8QtQ.png){: .align-right}
 A claim is true simply because it has not been proven false (or false because it has not been proven true).
 
 *“Nobody has proved to me there is a God. So there is no God."*
@@ -55,7 +55,7 @@ Because a claim sounds impossible or unbelievable, then it must not be true.
 
 ## **Appeal to Money** ##
 
-![image-left](http://i.imgur.com/vNtZq66.png){: .align-left}
+![image-right](http://i.imgur.com/vNtZq66.png){: .align-right}
 Supposing that, if someone is rich or something is expensive, then it affects the truth of a claim.
 
 *“My watch must be better than yours because i bought it at a higher price than you did."*
@@ -79,10 +79,9 @@ Claiming something is true because the majority of people believe it. Likewise w
 
 
 
-
 ## **Appeal to Probability** ##
 
-![image-left](http://i.imgur.com/QF8Kt0Q.png){: .align-left}
+![image-right](http://i.imgur.com/QF8Kt0Q.png){: .align-right}
 Assuming because something could happen, it will inevitably happen.
 
 *“There are billions of galaxies with billions of stars in the universe. So there must be another planet with intelligent life on it."*
