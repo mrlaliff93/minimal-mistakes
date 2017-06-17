@@ -83,7 +83,7 @@ Claiming something is true because the majority of people believe it. Likewise w
 ## **Appeal to Probability** ##
 
 ![image-left](http://i.imgur.com/QF8Kt0Q.png){: .align-left}
-Assuming because something could happen, it will inevitable happen.
+Assuming because something could happen, it will inevitably happen.
 
 *“There are billions of galaxies with billions of stars in the universe. So there must be another planet with intelligent life on it."*
 
