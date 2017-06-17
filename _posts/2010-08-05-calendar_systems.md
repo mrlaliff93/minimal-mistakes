@@ -1,41 +1,17 @@
 ---
-title: "Calendar Systems"
+title: "Rhetological Fallacies"
 categories:
   - general
 ---
 
-The preferred way of using images is placing them in the `/assets/images/` directory and referencing them with an absolute path. Prepending the filename with `{% raw %}{{ site.url }}{{ site.baseurl }}/assets/images/{% endraw %}` will make sure your images display properly in feeds and such.
+Fallacies are common errors in reasoning that will undermine the logic of your argument. It can be either illegitimate arguments or irrelevant points, and are often identified because they lack evidence that supports their claim.
 
-Standard image with no width modifier classes applied.
+Rhetological fallacies, on the other hand, are errors and forms of manipulatiosn of rhetorics and logical thinking.
 
-**HTML:**
+Appeal to the Mind
 
-```html
-{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/filename.jpg" alt="">{% endraw %}
-```
+Appeal to Anonymous Authority
 
-**or Kramdown:**
+Using evidence from an unnamed 'expert' or 'study' or generalized groups like 'scientists' to claim something to be true.
 
-```markdown
-{% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/filename.jpg){% endraw %}
-```
-
-![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/unsplash-image-9.jpg)
-
-Image that fills page content container by adding the `.full` class with:
-
-**HTML:**
-
-```html
-{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/filename.jpg" alt="" class="full">{% endraw %}
-```
-
-**or Kramdown:**
-
-```markdown
-{% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/filename.jpg)
-{: .full}{% endraw %}
-```
-
-![Unsplash image 10]({{ site.url }}{{ site.baseurl }}/assets/images/unsplash-image-10.jpg)
-{: .full}
+“A study shows that eating a clove of garlic a day can help prevent heart disease."
