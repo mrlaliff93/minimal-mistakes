@@ -12,7 +12,7 @@ Fallacies are common errors in reasoning that will undermine the logic of your a
 Hence, rhetological fallacies are errors and forms of manipulations of rhetoric and logical thinking.
 
 
-## **Appeal to Anonymous Authority** ##
+## **Appeal to Anonymous Authority** ##{: .text-right}
 
 ![image-left](http://i.imgur.com/8oNRNcn.png){: .align-left}
 Using evidence from an unnamed 'expert' or 'study' or generalized groups like 'scientists' to claim something to be true.
