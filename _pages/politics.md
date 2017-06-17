@@ -1,24 +1,12 @@
 ---
-title: "International Politics"
+layout: archive
+title: "Politics"
 permalink: /politics/
-
-categories:
-  - aciform
-  - antiquarianism
-  - arrangement
-  - asmodeus
-  - broder
-  - buying
-  - championship
-  - chastening
-  - disinclination
-  - disinfection
-  - dispatch
-  - echappee
-  - enphagy
-tags:
-  - categories
-  - edge case
+author_profile: true
 ---
 
-This post has many categories.
+<div class="grid__wrapper">
+  {% for post in site.politics %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
