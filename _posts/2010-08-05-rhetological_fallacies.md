@@ -22,13 +22,13 @@ Using evidence from an unnamed 'expert' or 'study' or generalized groups like 's
 ![image-left](http://i.imgur.com/7vTP0e1.png){: .align-left}
 Claiming something is true because an unqualified or untrustworthy 'expert' says it is.
 
-*“Over 50 scientists from US dispute global warming"*
+*“Over 50 scientists from US dispute global warming."*
 
 
 ## **Appeal to Common Practice** ##
 
 ![image-left](http://i.imgur.com/nMn1HRe.png){: .align-left}
-Claiming something is true because it's commonly practiced.
+Claiming something is true because it is commonly practiced.
 
 *“This country has some problems with corruption. But there's nothing going on here that doesn't go on in all other countries."*
 
@@ -44,9 +44,9 @@ A claim is true simply because it has not been proven false (or false because it
 ## **Appeal to Incredulity** ##
 
 ![image-left](http://i.imgur.com/bOO5BVJ.png){: .align-left}
-Because a claim sounds unbelievable, it must not be true.
+Because a claim sounds impossible or unbelievable, then it must not be true.
 
-*“It is impossibe that Jesus could walked on water. Do you even learn physics in schoo?"*
+*“It is impossibe when someone says that Jesus could walked on water. Do they even learn physics in schoo?"*
 
 
 
