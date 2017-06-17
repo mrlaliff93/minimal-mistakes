@@ -2,6 +2,8 @@
 title: "Rhetological Fallacies - Appeal to the Mind"
 categories:
   - general
+og_image: /assets/images/boo.png
+  
 ---
 
 Fallacies are common errors in reasoning that will undermine the logic of your arguments. It can be either illegitimate arguments or irrelevant points, and are often identified because the lack of evidence that supports your claim.
