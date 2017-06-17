@@ -11,6 +11,7 @@ Rhetological fallacies, on the other hand, are errors and forms of manipulatiosn
 Appeal to the Mind
 
 Appeal to Anonymous Authority
+{: .text-justify}
 
 Using evidence from an unnamed 'expert' or 'study' or generalized groups like 'scientists' to claim something to be true.
 
