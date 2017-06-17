@@ -72,7 +72,7 @@ Supposing something is better because it is new or newer.
 
 ## **Appeal to Popular Belief** ##
 
-![image-left](http://i.imgur.com/qV0ObUn.png){: .align-left}
+![image-right](http://i.imgur.com/qV0ObUn.png){: .align-right}
 Claiming something is true because the majority of people believe it. Likewise when believing a suspect of a crime to be guilty before being convicted.
 
 *“Milk is good for your bones."*
@@ -81,7 +81,7 @@ Claiming something is true because the majority of people believe it. Likewise w
 
 ## **Appeal to Probability** ##
 
-![image-right](http://i.imgur.com/QF8Kt0Q.png){: .align-right}
+![image-left](http://i.imgur.com/QF8Kt0Q.png){: .align-left}
 Assuming because something could happen, it will inevitably happen.
 
 *“There are billions of galaxies with billions of stars in the universe. So there must be another planet with intelligent life on it."*
@@ -89,7 +89,7 @@ Assuming because something could happen, it will inevitably happen.
 
 ## **Appeal to Tradition** ##
 
-![image-left](http://i.imgur.com/wusOR4n.png){: .align-left}
+![image-right](http://i.imgur.com/wusOR4n.png){: .align-right}
 Claiming something is true because it is (apparently) always been that way.
 
 *“Women are known to be the best homemakers. There is no point for them to attend colleges."*
