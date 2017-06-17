@@ -1,9 +1,6 @@
 ---
-title: "Edge Case: No Body Content"
-categories:
-  - Edge Case
-tags:
-  - content
-  - edge case
-  - layout
+title: "hhh"
+permalink: /general/
+author_profile: true
 ---
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
