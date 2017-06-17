@@ -4,7 +4,7 @@ categories:
   - general
 ---
 
-Fallacies are common errors in reasoning that will undermine the logic of your arguments. It can be either illegitimate arguments or irrelevant points, and are often identified because the lack of evidence that supports your claims.
+Fallacies are common errors in reasoning that will undermine the logic of your arguments. It can be either illegitimate arguments or irrelevant points, and are often identified because the lack of evidence that support your claims.
 
 Hence, rhetological fallacies are errors and forms of manipulations of rhetoric and logical thinking.
 
@@ -46,7 +46,7 @@ A claim is true simply because it has not been proven false (or false because it
 ![image-left](http://i.imgur.com/bOO5BVJ.png){: .align-left}
 Because a claim sounds impossible or unbelievable, then it must not be true.
 
-*“It is impossibe when someone says that Jesus could walked on water. Do they even learn physics in schoo?"*
+*“It is impossibe when someone says that Jesus could walked on water. Do they even learn physics in school?"*
 
 
 
