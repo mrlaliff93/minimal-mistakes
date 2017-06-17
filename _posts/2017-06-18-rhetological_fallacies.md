@@ -13,7 +13,7 @@ Hence, rhetological fallacies are errors and forms of manipulations of rhetoric 
 
 
 ## **Appeal to Anonymous Authority** ##
-{: .text-right}
+
 ![image-left](http://i.imgur.com/8oNRNcn.png){: .align-left}
 Using evidence from an unnamed 'expert' or 'study' or generalized groups like 'scientists' to claim something to be true.
 
@@ -29,7 +29,7 @@ Claiming something is true because an unqualified or untrustworthy 'expert' says
 
 
 ## **Appeal to Common Practice** ##
-{: .text-right}
+
 ![image-left](http://i.imgur.com/nMn1HRe.png){: .align-left}
 Claiming something is true because it is commonly practiced.
 
@@ -45,7 +45,7 @@ A claim is true simply because it has not been proven false (or false because it
 
 
 ## **Appeal to Incredulity** ##
-{: .text-right}
+
 ![image-left](http://i.imgur.com/bOO5BVJ.png){: .align-left}
 Because a claim sounds impossible or unbelievable, then it must not be true.
 
@@ -63,7 +63,7 @@ Supposing that, if someone is rich or something is expensive, then it affects th
 
 
 ## **Appeal to Novelty** ##
-{: .text-right}
+
 ![image-left](http://i.imgur.com/JOuGXoD.png){: .align-left}
 Supposing something is better because it is new or newer.
 
@@ -80,7 +80,7 @@ Claiming something is true because the majority of people believe it. Likewise w
 
 
 ## **Appeal to Probability** ##
-{: .text-right}
+
 ![image-left](http://i.imgur.com/QF8Kt0Q.png){: .align-left}
 Assuming because something could happen, it will inevitably happen.
 
