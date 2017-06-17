@@ -4,7 +4,7 @@ categories:
   - general
 ---
 
-Fallacies are common errors in reasoning that will undermine the logic of your arguments. It can be either illegitimate arguments or irrelevant points, and are often identified because the lack of evidence that support your claims.
+Fallacies are common errors in reasoning that will undermine the logic of your arguments. It can be either illegitimate arguments or irrelevant points, and are often identified because the lack of evidence that supports your claim.
 
 Hence, rhetological fallacies are errors and forms of manipulations of rhetoric and logical thinking.
 
