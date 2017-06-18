@@ -73,7 +73,7 @@ Drawing a quick conclusion without fairly considering relevant (and easily avail
 ![image-right](http://i.imgur.com/sAFfCQs.png){: .align-right}
 Assuming because two opposing arguments have merits, the answer must lie somewhere between them.
 
-*“I know that this is our first date and you think that i should pay for the dinner. I think a fair compromise would be to split the bill in half."*
+*“I know that this is our first date and you think that i should pay. I think a fair compromise would be to split the bill in half."*
 {: .text-center}
 
 
@@ -87,9 +87,9 @@ Assuming that the only option on the table is perfect success, then rejecting an
 
 ## **Relativist Fallacy** ##
 ![image-left](http://i.imgur.com/DuEpy3q.png){: .align-left}
-Rejecting a claim because of a believe that truth is relative to a person or a group.
+Rejecting a claim because of a believe that truth is relative to an individua or a group.
 
-*“That's perhaps true for you. But it's not true for me."*
+*“That's perhaps true for you. But I don't really believe that the Government are putting efforts in fighting corruptions."*
 {: .text-center}
 
 
@@ -108,7 +108,7 @@ Assuming an observation from a small sample size applies to an entire group.
 ![image-left](http://i.imgur.com/Bn7mHkv.png){: .align-left}
 Applying a general rule too broadly on individuals, groups or situations.
 
-*“Those young men rioted because they lacked morally responsible fathers."*
+*“Those young men rioted because they lacked morally responsible fathers. What a pity."*
 {: .text-center}
 
 
