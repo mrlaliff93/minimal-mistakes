@@ -18,7 +18,7 @@ Arguing a belief is false because it implies something you would rather not beli
 
 ## **Appeal to Fear** ##
 ![image-right](http://i.imgur.com/dJ582SB.png){: .align-right}
-An argument is made by increasing fear and prejudice towards the opposing side..
+An argument is made by increasing fear and prejudice towards the opposing side.
 
 *“Before you know it, there will be more mosques than churches."*
 {: .text-center}
@@ -28,7 +28,7 @@ An argument is made by increasing fear and prejudice towards the opposing side..
 ![image-left](http://i.imgur.com/jrQT8YU.png){: .align-left}
 Using an irrelevant compliment to slip in an unproven claim which is accepted.
 
-*“Smart readers will recognize a fallacy like this when they read one."*
+*“Sophisticated readers will of course recognize a fallacy like this when they read one."*
 {: .text-center}
 
 
@@ -63,7 +63,7 @@ Presenting the opponent's argument in a way that makes it appear absurd.
 ![image-left](http://i.imgur.com/nq56WQJ.png){: .align-left}
 Dismissing a claim by appealing to personal bias against the claimant.
 
-*“Don't you just hate how those rich Liberal Hollywood actor go on TV to promote their agendas?"*
+*“Don't you just hate how those rich Liberal Hollywood actors go on TV to promote their agendas?"*
 {: .text-center}
 
 
