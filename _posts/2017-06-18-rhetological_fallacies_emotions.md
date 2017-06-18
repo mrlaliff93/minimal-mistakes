@@ -13,7 +13,7 @@ Rhetological fallacies are errors and forms of manipulations of rhetoric and log
 ![image-left](http://i.imgur.com/t0W93sE.png){: .align-left}
 Arguing a belief is false because it implies something you would rather not believe.
 
-*“It can't be him. If it were, he'd be lying about not knowing her. And he's not the kind of man who would lie."*
+*“It can't be him. If it were, he'd be lying all these years. He's not the kind of man who would lie."*
 {: .text-center}
 
 ## **Appeal to Fear** ##
@@ -28,7 +28,7 @@ An argument is made by increasing fear and prejudice towards the opposing side..
 ![image-left](http://i.imgur.com/jrQT8YU.png){: .align-left}
 Using an irrelevant compliment to slip in an unfounded claim which is accepted along with the compliment.
 
-*“Intelligent readers will recognize a fallacy like this when they read one."*
+*“Smart readers will recognize a fallacy like this when they read one."*
 {: .text-center}
 
 
@@ -36,7 +36,7 @@ Using an irrelevant compliment to slip in an unfounded claim which is accepted a
 ![image-right](http://i.imgur.com/H872Ges.png){: .align-right}
 Making your claim seem more true by drawing a comparison with the 'good' natural world.
 
-*“Of course development is unnatural. You don't see animals deforest to make space for the buildings."*
+*“Of course development is unnatural. You don't see animals deforest to build homes."*
 {: .text-center}
 
 
