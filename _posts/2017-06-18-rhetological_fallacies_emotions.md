@@ -26,7 +26,7 @@ An argument is made by increasing fear and prejudice towards the opposing side..
 
 ## **Appeal to Flattery** ##
 ![image-left](http://i.imgur.com/jrQT8YU.png){: .align-left}
-Using an irrelevant compliment to slip in an unfounded claim which is accepted along with the compliment.
+Using irrelevant compliment to slip in an unproven claim which is accepted along with the compliment.
 
 *“Smart readers will recognize a fallacy like this when they read one."*
 {: .text-center}
