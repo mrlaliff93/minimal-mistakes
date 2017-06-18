@@ -78,7 +78,7 @@ Assuming because two opposing arguments have merits, the answer must lie somewhe
 
 
 ## **Perfectionist Fallacy** ##
-![image-right](http://i.imgur.com/sKbYfk9.png){: .align-right}
+![image-left](http://i.imgur.com/sKbYfk9.png){: .align-left}
 Assuming that the only option on the table is perfect success, then rejecting anything that will not work perfectly.
 
 *“What's the point of this anti-drunk driving campaign? People are still going to drink and drive no matter what."*
@@ -86,7 +86,7 @@ Assuming that the only option on the table is perfect success, then rejecting an
 
 
 ## **Relativist Fallacy** ##
-![image-left](http://i.imgur.com/DuEpy3q.png){: .align-left}
+![image-right](http://i.imgur.com/DuEpy3q.png){: .align-right}
 Rejecting a claim because of a believe that truth is relative to an individual or a group.
 
 *“That's perhaps true for you. But I don't really believe that the Government are putting efforts in fighting corruptions."*
@@ -95,7 +95,7 @@ Rejecting a claim because of a believe that truth is relative to an individual o
 
 
 ## **Spotlight** ##
-![image-right](http://i.imgur.com/w4pgzVL.png){: .align-right}
+![image-left](http://i.imgur.com/w4pgzVL.png){: .align-left}
 Assuming an observation from a small sample size applies to an entire group.
 
 *“This large shoe manufacturer employs children in sweatshops. Therefore all shoe companies are evil child-slave owners!"*
@@ -105,7 +105,7 @@ Assuming an observation from a small sample size applies to an entire group.
 
 ## **Sweeping Generalization** ##
 
-![image-left](http://i.imgur.com/Bn7mHkv.png){: .align-left}
+![image-right](http://i.imgur.com/Bn7mHkv.png){: .align-right}
 Applying a general rule too broadly on individuals, groups or situations.
 
 *“Those young men rioted because they lacked morally responsible fathers. What a pity."*
@@ -113,7 +113,7 @@ Applying a general rule too broadly on individuals, groups or situations.
 
 
 ## **Undistributed Middle** ##
-![image-right](http://i.imgur.com/oNWMOLa.png){: .align-right}
+![image-left](http://i.imgur.com/oNWMOLa.png){: .align-left}
 Assuming because two things share a common property, that makes them the same thing.
 
 *“A theory can mean an unproven idea. Scientists use the term evolutionary theory. Therefore evolution is an unproven idea."*
