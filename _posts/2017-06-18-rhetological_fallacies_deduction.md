@@ -9,7 +9,7 @@ thumbnail: /assets/images/deduct.png
 
 Deduction is a process of reasoning in which a conclusion follows necessarily from the premises presented, so that the conclusion cannot be false if the premises are true.
 
-Rhetological fallacies are errors and forms of manipulations of rhetoric and logical thinking.
+Rhetological fallacies, on the other hand, are errors and forms of manipulations of rhetoric and logical thinking.
 
 ## **Anectodal Evidence** ##
 ![image-left](http://i.imgur.com/jNJ3QmZ.png){: .align-left}
@@ -36,7 +36,7 @@ Assuming that characteristics or beliefs of a group automatically apply to any i
 
 ## **Design Fallacy** ##
 ![image-right](http://i.imgur.com/k0bPfhe.png){: .align-right}
-Assuming that because something is nicely designed or beautifully visualized, it's more true."
+Assuming that because something is nicely designed or beautifully visualized, it's more true.
 
 *“I'm going to buy this encyclopedia because it's cover looks nice."*
 {: .text-center}
@@ -73,7 +73,7 @@ Drawing a quick conclusion without fairly considering relevant (and easily avail
 ![image-right](http://i.imgur.com/sAFfCQs.png){: .align-right}
 Assuming because two opposing arguments have merits, the answer must lie somewhere between them.
 
-*“I rear ended your car but I don't think I should pay for the damage. You think I should pay for all the damage. A fair compromise would be to split the bill in half."*
+*“I know that this is our first date and you think that i should pay for the dinner. I think a fair compromise would be to split the bill in half."*
 {: .text-center}
 
 
@@ -106,7 +106,7 @@ Assuming an observation from a small sample size applies to an entire group.
 ## **Sweeping Generalization** ##
 
 ![image-left](http://i.imgur.com/Bn7mHkv.png){: .align-left}
-Applying a general rule too broadly.
+Applying a general rule too broadly on individuals, groups or situations.
 
 *“Those young men rioted because they lacked morally responsible fathers."*
 {: .text-center}
