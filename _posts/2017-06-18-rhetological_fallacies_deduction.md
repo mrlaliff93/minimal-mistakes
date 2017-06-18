@@ -65,7 +65,7 @@ Drawing a general conclusion from a tiny sample.
 ![image-left](http://i.imgur.com/gPM4Bhc.png){: .align-left}
 Drawing a quick conclusion without fairly considering relevant (and easily available) evidence.
 
-*“He wants to quit college? He will end up in jail."*
+*“He wants to quit college? He's going to end up in jail."*
 {: .text-center}
 
 
@@ -87,7 +87,7 @@ Assuming that the only option on the table is perfect success, then rejecting an
 
 ## **Relativist Fallacy** ##
 ![image-left](http://i.imgur.com/DuEpy3q.png){: .align-left}
-Rejecting a claim because of a believe that truth is relative to an individua or a group.
+Rejecting a claim because of a believe that truth is relative to an individual or a group.
 
 *“That's perhaps true for you. But I don't really believe that the Government are putting efforts in fighting corruptions."*
 {: .text-center}
@@ -114,7 +114,7 @@ Applying a general rule too broadly on individuals, groups or situations.
 
 ## **Undistributed Middle** ##
 ![image-right](http://i.imgur.com/oNWMOLa.png){: .align-right}
-Assuming because two things share a commkon property, that makes them the same thing.
+Assuming because two things share a common property, that makes them the same thing.
 
 *“A theory can mean an unproven idea. Scientists use the term evolutionary theory. Therefore evolution is an unproven idea."*
 {: .text-center}
