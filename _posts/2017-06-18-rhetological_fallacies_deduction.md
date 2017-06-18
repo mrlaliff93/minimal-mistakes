@@ -3,7 +3,7 @@ title: "Rhetological Fallacies: Faulty Deduction"
 categories:
         general
 description: Rhetological Fallacies 101
-thumbnail: /assets/images/emotion.png
+thumbnail: /assets/images/deduct.png
   
 ---
 
